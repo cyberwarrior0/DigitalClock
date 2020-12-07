@@ -1,0 +1,52 @@
+
+body {background-color:black;
+  color: #66fcf1;      
+}
+.container {
+display:flex;
+align-items: center;
+justify-content:center;
+font-family: 'Orbitron', sans-serif;
+}
+.hours,.min,.sec {
+display:flex;
+margin-right: 10px;
+margin-left: 10px;
+height:20vh;
+width:20vh;
+background-color: #1f2833 ;
+justify-content:center;
+text-align:center;  
+align-items:center;
+font-size:xx-large
+}
+.colon, .colon1{
+align-items:center;
+font-size:xx-large;
+}
+.container2 {
+display:flex;
+align-items: center;
+justify-content:center;
+font-family: 'Orbitron', sans-serif;
+
+}
+.days{
+display:flex;
+height:10vh;
+width: 80vh;
+background-color: #1f2833 ;
+justify-content:center;
+text-align:center;  
+align-items:center;
+font-size:small;
+}
+.to{
+padding-top: 100px;
+display:flex;
+margin-right: 10px;
+justify-content:center;
+text-align:center;
+align-items:center;
+font-size:;
+}
